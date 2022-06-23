@@ -8,7 +8,7 @@
         In my free time, I like to travel, taste different foods, and read (a lot!). Like Khaleesi is the mother of dragons, I’m the mother of cats. I have two fur babies that I get to spoil. <br>
         Feel free to look through my repositories and contact me if you’d like to! ✉📱<br>
     </p>
-    <img align="right" alt="Tati-gif" height="200" style="border-radius:50%" src="https://c.tenor.com/AQlpUJG-JwsAAAAC/dracrys-cat.gif"/>
+    <img align="right" alt="Tati-gif" height="150" style="border-radius:50%" src="https://c.tenor.com/AQlpUJG-JwsAAAAC/dracrys-cat.gif"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -29,6 +29,8 @@
   <a href="https://github.com/tatimattos93"><img width="400" src="https://github-readme-stats.vercel.app/api?username=tatimattos93&show_icons=true&theme=react&include_all_commits=true&count_private=true"/></a>
   <a href="https://github.com/tatimattos93"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatimattos93&layout=compact&langs_count=7&theme=react"/></a>
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tatianaomalvares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
