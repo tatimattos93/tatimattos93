@@ -8,7 +8,7 @@
         In my free time, I like to travel, taste different foods, and read (a lot!). Like Khaleesi is the mother of dragons, I’m the mother of cats. I have two fur babies that I get to spoil. <br>
         Feel free to look through my repositories and contact me if you’d like to! ✉📱<br>
     </p>
-    <img align="right" alt="Tati-gif" height="150" style="border-radius:50%" src="https://c.tenor.com/AQlpUJG-JwsAAAAC/dracrys-cat.gif"/>
+    <img align="right" alt="Tati-gif" height="250" style="border-radius:50%" src="https://c.tenor.com/AQlpUJG-JwsAAAAC/dracrys-cat.gif"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
