@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 My name is Tatiana, but you can call me Tati! 😊
 
-<!--
-**tatimattos93/tatimattos93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Full-Stack Software Developer from Brazil, passionate about technology and learning new things. 
+### My first coding contact was while trying to fix some of The Sims 2 bugs. I searched online on how to fix some of the issues I was having while playing and started modifying a few things on the game code. After that, I was in love with software development. 
 
-Here are some ideas to get you started:
+### In my free time, I like to travel, taste different foods, and read (a lot!). Like Khaleesi was the mother of dragons, I’m the mother of cats. I have two fur babies that I get to spoil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Feel free to look through my repositories and contact me if you’d like to! ✉📱
+
+
+<div style="display: inline_block"><br>
+    <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
+    <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />          
+    <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+    <img align="right" alt="Tati-gif" height="150" style="border-radius:50px;" src="https://tenor.com/bk5cO.gif"/>
+
+</div>
+          
+          
+          
