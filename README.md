@@ -1,15 +1,12 @@
 ### Hi there 👋 My name is Tatiana, but you can call me Tati! 😊
+
 <div>
-<p> 
+    <p> 
         I'm a Full-Stack Software Developer from Brazil, passionate about technology and learning new things. <br>
         My first coding contact was while trying to fix some of The Sims 2 bugs. I searched online on how to fix some of the issues I was having while playing and started modifying a few things on the game code. After that, I was in love with software development. <br>
-
-        In my free time, I like to travel, taste different foods, and read (a lot!). Like Khaleesi was the mother of dragons, I’m the mother of cats. I have two fur babies that I get to spoil. 
-        
-<br>
-
-        Feel free to look through my repositories and contact me if you’d like to! ✉📱
-</p>
+        In my free time, I like to travel, taste different foods, and read (a lot!). Like Khaleesi was the mother of dragons, I’m the mother of cats. I have two fur babies that I get to spoil. <br>
+        Feel free to look through my repositories and contact me if you’d like to! ✉📱<br>
+    </p>
 </div>
 
 
